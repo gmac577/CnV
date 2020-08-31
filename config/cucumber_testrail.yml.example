@@ -1,0 +1,10 @@
+testrail_url: "http://testrail.pre.proquest.com/testrail/index.php?"
+
+suites:
+
+  - suite:
+      project_id: [project_id]
+      project_symbol: 'PROJECT-SYMBOL'
+      suite_id: (optional) 1
+      section_id: (optional) [your section_id (not exposed on the UI but is sequential so starts with 1)]
+      testplan_id: [your testplan_id]

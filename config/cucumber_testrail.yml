@@ -1,0 +1,65 @@
+testrail_url: "http://testrail.pre.proquest.com/testrail/index.php?"
+
+testrail_success_message:
+
+suites:
+- suite: #Healthcheck
+      project_id: 46
+      project_symbol: 'HC'
+      suite_id: 4007
+      testplan_id: 9855
+- suite: #Authentication
+      project_id: 46
+      project_symbol: 'AUTH'
+      suite_id: 4008
+      testplan_id: 9855
+- suite: #enrichment
+      project_id: 46
+      project_symbol: 'EN'
+      suite_id: 4016
+      testplan_id: 9855
+- suite: #UsageReport
+      project_id: 46
+      project_symbol: 'UR'
+      suite_id: 4087
+      testplan_id: 9855
+- suite: #retrieveRW2MappingData
+      project_id: 46
+      project_symbol: 'RMD'
+      suite_id: 4048
+      testplan_id: 9855
+- suite: #Events
+      project_id: 46
+      project_symbol: 'EV'
+      suite_id: 4126
+      testplan_id: 9855
+- suite: #PrivacyPolicy
+      project_id: 46
+      project_symbol: 'PP'
+      suite_id: 4116
+      testplan_id: 9855
+- suite: #OutputStyles
+      project_id: 46
+      project_symbol: 'CS'
+      suite_id: 4410
+      testplan_id: 9855
+- suite: #ReferencesList
+      project_id: 46
+      project_symbol: 'RL'
+      suite_id: 4489
+      testplan_id: 9855
+- suite: #FormatterEndpointMap
+      project_id: 46
+      project_symbol: 'FMEP'
+      suite_id: 4410
+      testplan_id: 9855
+- suite: #Folders
+      project_id: 46
+      project_symbol: 'FL'
+      suite_id: 4547
+      testplan_id: 9855
+- suite: #projects
+      project_id: 46
+      project_symbol: 'PJ'
+      suite_id: 4734
+      testplan_id: 9855
